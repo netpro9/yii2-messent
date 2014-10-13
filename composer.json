@@ -1,0 +1,21 @@
+{
+    "name": "netpro9/yii2-messent",
+    "description": "Messente",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rainari Argel",
+            "email": "rainari@netpro.ee"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "netpro9\\messent\\": ""
+        }
+    }
+}
