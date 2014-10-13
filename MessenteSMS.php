@@ -5,7 +5,7 @@ namespace netpro9\messent;
 /**
  * This is just an example.
  */
-class MessenteSMSextends Component
+class MessenteSMS extends Component
 {
     /**
     * @var string $username TurboSMS account username.
